@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sashank Bhandari – MBA Portfolio"
+  description: "Multi-page portfolio: About, Resume, Skills/Interests, Contact."
+  site-url: https://sawsankonline.github.io/mba-portfolio
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Resume
+        href: resume.qmd
+      - text: Skills & Interests
+        href: skills.qmd
+      - text: Contact
+        href: contact.qmd
+  page-footer:
+    left: "© {{< meta year >}} Sashank Bhandari"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: left
+    number-sections: false
+    code-fold: false
+    smooth-scroll: true
+    anchor-sections: true

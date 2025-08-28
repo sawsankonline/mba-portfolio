@@ -1,0 +1,25 @@
+---
+title: "Resume"
+format: html
+---
+
+## 🎓 Education
+
+- **MBA in Business Administration**  
+  University Canada West, Vancouver, BC  
+  *Expected Completion: December 2025*
+
+- **Bachelor's Degree in Music**  
+  Kathmandu University, Nepal  
+  *Completed: March 2022*
+
+---
+
+## 💼 Work Experience
+
+**General Clerk**  
+*Save-On-Foods, Vancouver*  
+*September 2024 – Present*  
+- Supported inventory management, product restocking, and in-store merchandising.  
+- Delivered consistent customer service and upheld food safety standards.  
+- Collaborated with team to maintain store presentation and performance metrics.
