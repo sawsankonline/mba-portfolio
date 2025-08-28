@@ -1,0 +1,7 @@
+/* Larger base font and line-height */
+body { font-size: 18px; line-height: 1.65; }
+/* Ensure link focus outline for keyboard users */
+a:focus { outline: 3px solid #555; outline-offset: 3px; }
+/* Tables readable */
+table { font-size: 16px; }
+th, td { padding: .5rem .75rem; }
